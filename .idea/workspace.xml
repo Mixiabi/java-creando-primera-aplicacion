@@ -1,18 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="096a7d1e-fa10-4d50-90a2-07da952d1676" name="Changes" comment="" />
+    <list default="true" id="096a7d1e-fa10-4d50-90a2-07da952d1676" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adivinanza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Adivinanza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desiciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desiciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Evaluaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Evaluaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resolucion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/temperature.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Mixiabi"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Mixiabi/java-creando-primera-aplicacion.git",
+    "accountId": "96154560-4118-4e67-a50a-9bc53d0d516b"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2fAHyALg41KuHdcRRvHUaclfJOh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,11 +53,66 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Adivinanza.executor": "Run",
+    "Application.Desiciones.executor": "Run",
+    "Application.Evaluaciones.executor": "Run",
+    "Application.Lectura.executor": "Run",
+    "Application.Loops.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.temperature.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Adivinanza">
+    <configuration name="Adivinanza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adivinanza" />
+      <module name="firstProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desiciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desiciones" />
+      <module name="firstProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Evaluaciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Evaluaciones" />
+      <module name="firstProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lectura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lectura" />
+      <module name="firstProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops" />
+      <module name="firstProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Adivinanza" />
+        <item itemvalue="Application.Evaluaciones" />
+        <item itemvalue="Application.Loops" />
+        <item itemvalue="Application.Lectura" />
+        <item itemvalue="Application.Desiciones" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,5 +123,16 @@
       <updated>1713237229175</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
